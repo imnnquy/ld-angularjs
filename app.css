@@ -50,6 +50,11 @@ ul {
   background: #1b62a8
 }
 
+.user-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 /** Custom CSS TOOLBAR **/
 
 h2 {
